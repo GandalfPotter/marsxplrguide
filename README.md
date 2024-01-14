@@ -19,7 +19,7 @@ like W.I.N.E. or playonlinux.<br>
 ### whirlds ###<br>
 pretty much all of the whirlds shown in the original whirld list are no longer being hosted,<br>
 and cannot be played through traditional means,<br>
-but fear not, many whirlds have been archived by [lamps](https://gitea.moe/lamp/whirlds)<br>
+but fear not, many whirlds have been archived by [lamp](https://gitea.moe/lamp/whirlds)<br>
 to play these whirlds you must copy a link to a "Whirld.utw" file (with some formatting changes)<br>
 (if a whirld is hosted on something like github or gitea, make sure to get the raw file).<br>
 for all whirlds, you must change the beginning "https" to "http" in order for it to work in marsxplr,<br>
