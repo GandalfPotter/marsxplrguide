@@ -38,7 +38,7 @@ the only option for joining games is direct connect, so you need an ip address a
 <br>
 again, as the master servers are shut down, you must port forward all games manually.<br>
 you can do this by adding the udp and tcp port 2500 to your routers port forwarding settings,<br>
-or you can enter 2500 udp/tcp into a portmapping software like [upmp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
+or you can enter 2500 udp/tcp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
 <br>
 ## conclusion<br>
 mars xplr is definitely not as alive as it once was, but it is not lost forever.<br>
