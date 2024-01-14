@@ -25,7 +25,10 @@ to play these whirlds you must copy a link to a "Whirld.utw" file (with some for
 for all whirlds, you must change the beginning "https" to "http" in order for it to work in marsxplr,<br>
 and if there are any special characters in the whirld link, you must replace them with their html code counterparts,<br>
 for example: space = %20, double quote = %34, apostraphe = %37.<br>
-so "http://gitea.moe/lamp/whirlds/raw/branch/master/ibcf's World Backups/World Backups 2/Aubrey Falconer's Sky Bridge/Whirld.utw" for <br>example would turn into "https://gitea.moe/lamp/whirlds/raw/branch/master/ibcf%27s%20World%20Backups/World%20Backups%202/Aubrey%20Falconer%27s%20Sky%20Bridge/Whirld.utw".
+so<br>
+"http://gitea.moe/lamp/whirlds/raw/branch/master/ibcf's World Backups/World Backups 2/Aubrey Falconer's Sky Bridge/Whirld.utw"<br>
+for example would turn into<br>
+"https://gitea.moe/lamp/whirlds/raw/branch/master/ibcf%27s%20World%20Backups/World%20Backups%202/Aubrey%20Falconer%27s%20Sky%20Bridge/Whirld.utw".<br>
 once you have a correctly formatted whirld link, paste it into the custom whirld url box and then play.<br>
 if it failed to load, check if the you typed/formatted the url correctly.<br>
 <br>
