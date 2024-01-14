@@ -1,11 +1,11 @@
-# guide to marsxplr #<br>
+# guide to marsxplr<br>
 a guide to playing the game Mars Explorer long after its discontinuation<br>
 <br>
-## downloading Mars Explorer ##<br>
+## downloading Mars Explorer<br>
 you can still download marsplxr from [the wayback machine page](http://web.archive.org/web/20151020124336/http://marsxplr.com/view-267)<br>
 or you can download it from [lamps archive](https://gitea.moe/lamp/dat.marsxplr.com-mirror/src/branch/master/dat.marsxplr.com/222)<br>
 <br>
-## installing marsxplr ##<br>
+## installing marsxplr<br>
 marsxplr still more or less works on modern versions of windows,<br>
 <br>
 but it is not functional on newer versions of macos.<br>
@@ -15,8 +15,8 @@ which doesnt support 32 bit applications.<br>
 you can only play marsxplr on linux using windows compatability layers,<br>
 like W.I.N.E. or playonlinux.<br>
 <br>
-## playing marsxplr ##<br>
-### whirlds ###<br>
+## playing marsxplr<br>
+### whirlds<br>
 pretty much all of the whirlds shown in the original whirld list are no longer being hosted,<br>
 and cannot be played through traditional means,<br>
 but fear not, many whirlds have been archived by [lamp](https://gitea.moe/lamp/whirlds)<br>
@@ -32,7 +32,7 @@ for example would turn into<br>
 once you have a correctly formatted whirld link, paste it into the custom whirld url box and then play.<br>
 if it failed to load, check if the you typed/formatted the url correctly.<br>
 <br>
-### joining/hosting ###<br>
+### joining/hosting<br>
 now that the marsxplr master servers have been shut down, games will no longer show in the list,<br>
 the only option for joining games is direct connect, so you need an ip address and a port number to join an active hosted game.<br>
 <br>
