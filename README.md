@@ -20,7 +20,7 @@ like W.I.N.E. or playonlinux.<br>
 pretty much all of the whirlds shown in the original whirld list are no longer being hosted,<br>
 and cannot be played through traditional means,<br>
 but fear not, many whirlds have been archived by [lamp](https://gitea.moe/lamp/whirlds)<br>
-to play these whirlds you must copy a link to a "Whirld.utw" file (with some formatting changes)<br>.<br>
+to play these whirlds you must copy a link to a "Whirld.utw" file (with some formatting changes).<br>
 for all whirlds, you must change the beginning "https" to "http" in order for it to work in marsxplr,<br>
 and if there are any special characters in the whirld link, you must replace them with their html code counterparts,<br>
 for example: space = %20, double quote = %34, apostraphe = %37.<br>
