@@ -28,7 +28,7 @@ for example: space = %20, double quote = %34, apostraphe = %37.<br>
 so<br>
 ```http://gitea.moe/lamp/whirlds/raw/branch/master/ibcf's World Backups/World Backups 2/Aubrey Falconer's Sky Bridge/Whirld.utw```<br>
 for example would turn into<br>
-```https://gitea.moe/lamp/whirlds/raw/branch/master/ibcf%27s%20World%20Backups/World%20Backups%202/Aubrey%20Falconer%27s%20Sky%20Bridge/Whirld.utw```.<br>
+```http://gitea.moe/lamp/whirlds/raw/branch/master/ibcf%27s%20World%20Backups/World%20Backups%202/Aubrey%20Falconer%27s%20Sky%20Bridge/Whirld.utw```.<br>
 once you have a correctly formatted whirld link, paste it into the custom whirld url box and then play.<br>
 if it failed to load, check if the you typed/formatted the url correctly.<br>
 <br>
