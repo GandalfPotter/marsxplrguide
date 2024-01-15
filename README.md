@@ -20,8 +20,7 @@ like W.I.N.E. or playonlinux.<br>
 pretty much all of the whirlds shown in the original whirld list are no longer being hosted,<br>
 and cannot be played through traditional means,<br>
 but fear not, many whirlds have been archived by [lamp](https://gitea.moe/lamp/whirlds)<br>
-to play these whirlds you must copy a link to a "Whirld.utw" file (with some formatting changes)<br>
-(if a whirld is hosted on something like github or gitea, make sure to get the raw file).<br>
+to play these whirlds you must copy a link to a "Whirld.utw" file (with some formatting changes)<br>.<br>
 for all whirlds, you must change the beginning "https" to "http" in order for it to work in marsxplr,<br>
 and if there are any special characters in the whirld link, you must replace them with their html code counterparts,<br>
 for example: space = %20, double quote = %34, apostraphe = %37.<br>
@@ -37,11 +36,11 @@ now that the marsxplr master servers have been shut down, games will no longer s
 the only option for joining games is direct connect, so you need an ip address and a port number to join an active hosted game.<br>
 <br>
 again, as the master servers are shut down, you must port forward all games manually.<br>
-you can do this by adding the udp and tcp port 2500 to your routers port forwarding settings,<br>
-or you can enter 2500 udp/tcp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
+you can do this by adding port 2500 tcp to your routers port forwarding settings,<br>
+or you can enter 2500 tcp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
 <br>
 ## conclusion<br>
-mars xplr is definitely not as alive as it once was, but it is not lost forever.<br>
+mars xplr is definitely not very lively as it once was, but it is not lost forever.<br>
 its still possible to relive the nostalgia, with some work.<br>
 <br>
 if you have anything you would like to add/change in this guide, please make a pull request.<br>
