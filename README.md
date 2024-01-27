@@ -36,8 +36,8 @@ now that the marsxplr master servers have been shut down, games will no longer s
 the only option for joining games is direct connect, so you need an ip address and a port number to join an active hosted game.<br>
 <br>
 again, as the master servers are shut down, you must port forward all games manually.<br>
-you can do this by adding port 2500 tcp to your routers port forwarding settings,<br>
-or you can enter 2500 tcp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
+you can do this by adding port 2500 tcp/udp to your routers port forwarding settings,<br>
+or you can enter 2500 tcp/udp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
 <br>
 ## conclusion<br>
 the age of marsxplr is gone, bu not lost forever.<br>
