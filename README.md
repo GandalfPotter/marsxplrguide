@@ -40,7 +40,7 @@ you can do this by adding port 2500 tcp/udp to your routers port forwarding sett
 or you can enter 2500 tcp/udp into a portmapping software like [upnp portmapper](https://sourceforge.net/projects/upnp-portmapper/)<br>
 <br>
 ## conclusion<br>
-the age of marsxplr is gone, bu not lost forever.<br>
+the age of marsxplr is past, but not lost forever.<br>
 its still possible to relive the nostalgia, with some work.<br>
 <br>
 if you have anything you would like to add/change in this guide, please make a pull request.<br>
